@@ -1,0 +1,20 @@
+#body{
+	background-color: #f4f4f4;
+}
+#intro
+{
+	background-color: #363062;
+	color: white;
+	padding:20px;
+}
+#skills{
+	color:#862a5c;
+}
+#education{
+	color:#862a5c;
+}
+.break{
+	border-top: 10px dotted #fa744f;
+	 margin:10 600 0 600; 
+	 padding: 25px;
+}
